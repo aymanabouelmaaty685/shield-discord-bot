@@ -1,0 +1,17 @@
+{
+  "logChannelId": "",
+  "whitelist": [],
+  "securityRoleId": null,
+  "protection": {
+    "enabled": true,
+    "raidMode": false
+  },
+  "security": {
+    "antiChannelDelete": true,
+    "antiRoleDelete": true,
+    "antiChannelCreate": true,
+    "antiRoleCreate": true,
+    "antiBotAdd": true,
+    "antiSuspiciousBots": true
+  }
+}
