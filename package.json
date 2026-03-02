@@ -1,0 +1,17 @@
+{
+  "name": "shield-discord-bot",
+  "version": "1.0.0",
+  "description": "Advanced Discord security bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
